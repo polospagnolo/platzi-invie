@@ -1,2 +1,2 @@
 # platzi-invie
-Curso Platzi Github
+Curso Platzi Github @platzi
